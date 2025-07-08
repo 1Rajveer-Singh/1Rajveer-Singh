@@ -1,6 +1,9 @@
-## Hi , I'm Rajveer Singh 🐦‍🔥
-😎I am a Computer Science Student.<br/>
-<br/>
+## Hi, I'm Rajveer Singh 🐦‍🔥  
+🎓 CS Student turning ideas into real-world tech  
+💡 Passionate about Python, AI, and Web Development  
+🛠️ Building tools that solve real problems  
+🚀 On a mission to learn, build, and innovate daily  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajveer-singh-997219291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1.rajveersinghcse@gmail.com) 
@@ -15,8 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=1Rajveer-Singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Rajveer Singh) 
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
